@@ -7,3 +7,4 @@
 *Tener una mayor administracion de menu<br>
 *Tener una gestion sobre el personal<br>
 *Procesar ventas mediante una tarjeta de credito<br>
+-Modelo de negocios:El modelo de negocios es el de pago por venta, esto se refiere a que el restaurante que pague por nuestros servicios nosotros le ofrecemos nuestra aplicacion y nuestros servicios por mantenimiento
